@@ -1,17 +1,17 @@
 {
   "manifest_version": 2,
 
-  "name": "GOT Spoiler Blocker",
-  "description": "This extension indescriminately blocks all mentions of Game of Thrones characters and plotlines in an attempt to not have my life ruined.",
+  "name": "Endgame Spoiler Blocker",
+  "description": "This extension indescriminately blocks all mentions of Endgame characters and plotlines in an attempt to not have my life ruined.",
   "version": "0.1",
-  "author": "Jared Sulzdorf",
+  "author": "Shreya Gupta / Shubhank Saxena",
 
   "browser_action": {
     "default_icon": {
-      "19" : "images/stark19.png",
-      "38" : "images/stark38.png",
-      "48" : "images/stark48.png",
-      "128" : "images/stark128.png"
+      "19" : "images/icon19.png",
+      "38" : "images/icon38.png",
+      "48" : "images/icon48.png",
+      "128" : "images/icon128.png"
     }
   },
   "permissions": [
