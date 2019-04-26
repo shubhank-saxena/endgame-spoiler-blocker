@@ -5,9 +5,13 @@ This intractability combined with a love of surfing the internet has lead to a d
 ### How to use
 
 1. Clone and star the repository.
- ``` git clone https://github.com/shubhank-saxena/endgame-spoiler-prevention.git```
+ ``` 
+ git clone https://github.com/shubhank-saxena/endgame-spoiler-prevention.git
+ ```
 2. Then open chrome and type
- ``` chrome://extensions/ ```
+ ``` 
+ chrome://extensions/ 
+ ```
 3. Enable the Developer Mode on the right top corner and click on Load unpacked on left hand corner.
 4. Select the cloned repository and you'll see an extension is added with Cap's shield as an icon on your search bar.
 5. Voila! Now just click on the extension whenever you are surfing the internet to prevent all those unpleasant spoilers!
