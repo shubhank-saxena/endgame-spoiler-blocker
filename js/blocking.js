@@ -1,4 +1,4 @@
-var dictionary = ['Endgame','Tony Stark', 'Iron Man', 'Pepper Potts', 'Rescue', 'James Rhodes','War Machine','Nick Fury','Nicholas Joseph Fury','Howard Stark','Bruce Banner','Hulk','Natasha Romanoff','Black Widow','Anton Vanko','Whiplash',
+var dictionary = ['Endgame','Tony Stark', 'Iron Man', 'Pepper Potts', 'Rescue', 'James Rhodes','War Machine','Nick Fury','Nicholas Joseph Fury','Howard Stark','Bruce Banner','Hulk','Natasha Romanoff','Scarlett Johansson','Black Widow','Anton Vanko','Whiplash',
 'Boris Turgenov','Crimson Dynamo','Justin Hammer','Igor Vanko','Peter Parker','Spider-Man','Thor','Jane Foster','Odin','Loki','Heimdall','Clint Barton','Hawkeye','Ronin',
 'Steve Rogers','Captain America','Johann Shmidt','Red Skull','Peggy Carter','Bucky Barnes','Winter Soldier','Hunter','White Wolf','Arnim Zola','Thanos','Wanda Maximoff','Scarlet Witch',
 'Peter Quill','Star-Lord','Gamora','Arthur Douglas','Drax the Destroyer','Rocket Raccoon','Groot','Rhomann Dey','Nova Prime','Garthan Saal','Nova Omega','Nebula','Ronan the Accuser','Korath the Pursuer',
